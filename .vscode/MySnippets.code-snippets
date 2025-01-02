@@ -1,0 +1,43 @@
+{
+	"Adaprive value scss": {
+		"scope": "css,scss",
+		"prefix": "s-av",
+		"body": [
+			"@include adaptiveValue( , , );",
+		],
+		"description": "Mixin adaptive value for scss"
+	},
+	"Swiper slider": {
+		"scope": "html",
+		"prefix": "s-sw",
+		"body": [
+			"<div class=\"block__slider slider-block swiper\">",
+			"   <div class=\"slider-block__wrapper swiper-wrapper\">",
+			"       <div class=\"slider-block__slide swiper-slide\">",
+			"       </div>",
+			"    </div>",
+			"</div>",
+		],
+		"description": "Swiper html-code"
+	},
+	"Header navigation": {
+		"scope": "html",
+		"prefix": "s-hn",
+		"body": [
+			"<ul class=\"header__nav nav-header\">",
+			"    <li class=\"nav-header__item\">",
+			"       <a href=\"#\" class=\"nav-header__link\"></a>",
+			"    </li>",
+			"</ul>",
+		],
+		"description": "Header navigation html-code"
+	},
+	"Media request": {
+		"scope": "css,scss",
+		"prefix": "mq",
+		"body": [
+			"@media (max-width: 767.98px) {}",
+		],
+		"description": "Media request for css/scss"
+	}
+}
