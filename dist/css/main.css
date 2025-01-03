@@ -1,4 +1,4 @@
-@import url("");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap");
 
 * {
   padding: 0;
@@ -36,10 +36,10 @@ body {
   width: 100%;
   font-size: 100%;
   line-height: 1;
-  font-size: 16px;
+  font-size: 18px;
   -ms-text-size-adjust: 100%;
-  font-family: "", sans-serif;
-  color: #FFFFFF;
+  font-family: "Rubik", sans-serif;
+  color: #757575;
   background: #FFFFFF;
 }
 
@@ -112,7 +112,7 @@ h6 {
 }
 
 a {
-  color: #FFFFFF;
+  color: #757575;
 }
 
 /**/
@@ -130,7 +130,7 @@ a {
 }
 
 [class*=_container] {
-  max-width: 1260px;
+  max-width: 1195px;
   margin: 0 auto;
   padding: 0 15px;
 }

@@ -1,12 +1,11 @@
 // variables
    $minWidth: 320px;
-   $maxWidthContainer: 1230px;
+   $maxWidthContainer: 1165px;
    $mobilelWidth: 767.98px;
-   $maxWidth: 1924;
-   $FontFamily: '', sans-serif;
-   $fontFamily2: '', sans-serif;
-   $fontSize: 16px;
-   $mainColor: #FFFFFF;
+   $maxWidth: 1440;
+   $FontFamily: 'Rubik', sans-serif;
+   $fontSize: 18px;
+   $mainColor: #757575;
 // variables
 
 // mixins
@@ -18,7 +17,7 @@
 // mixins
 
 // fonts%3b
-@import url('');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
 // fonts
 
 // ---------------------
